@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **GenAI, React, and AWS**
 
-- 📫 How to reach me **anujmaha@iu.edu / anujsmahajan1998@gmail.com**
+- 📫 How to reach me **anujsmahajan1998@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anujmahajan98&label=Profile%20views&color=0e75b6&style=flat" alt="anujmahajan98" /> </p>
 
